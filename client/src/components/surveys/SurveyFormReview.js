@@ -145,7 +145,7 @@ const SurveyFormReview = ({ onCancel, formValues, submitSurvey, history }) => {
               href="http://materializecss.com"
             >
               {" "}
-              Smit Vavliya{" "}
+              Dhruv Vavliya{" "}
             </a>
           </div>
         </div>

@@ -456,7 +456,7 @@ class Landing extends Component {
                 href="http://materializecss.com"
               >
                 {" "}
-                Smit Vavliya{" "}
+                Dhruv Vavliya{" "}
               </a>
             </div>
           </div>
